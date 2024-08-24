@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denzell</h1>
-- 🔭 I’m currently working on [AI Voice Cloning Technology](https://github.com/DDixon0/audioFileCpp)
+- 🔭 I’m currently working on **AI Voice Cloning Technology**
 
 - 🌱 I’m currently learning **Embedded Hardware Programming, Azure**
 
