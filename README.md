@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denzell</h1>
 
-- 🔭 I’m currently working on **The Great Lock In Hackathon**
+- 🔭 I’m currently working on **Personal Website & Brand Hub**
 
 - 🌱 I’m currently learning **Computer Hardware Design, Azure**
 
